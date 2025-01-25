@@ -9,7 +9,7 @@ for y in range(1, 7):
     print(s)
 print("")
 
-print("a:")
+print("b:")
 for y in range(1, 7):
     s = ""
     for x in range(1, 9):
